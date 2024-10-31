@@ -7,7 +7,7 @@ def spin():
     return random.choice(symbols)
 
 def play_slot_machine():
-    print("Welcome to the Rigged Slot Machine!")
+    print("Welcome to the Python Slot Machine!")
     coins = 1000
 
     while True:
@@ -45,6 +45,8 @@ def play_slot_machine():
     
     print(f"You ended the game with {coins} coins.")
     print("Thank you for playing!")
+    print("Made by .paulbadman")
+    print("htpps://")
 
 if __name__ == "__main__":
     play_slot_machine()
