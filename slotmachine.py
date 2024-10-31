@@ -45,8 +45,7 @@ def play_slot_machine():
     
     print(f"You ended the game with {coins} coins.")
     print("Thank you for playing!")
-    print("Made by .paulbadman")
-    print("htpps://")
+    print("the creator's github is at htpps://github.com/paulbadmanthereal")
 
 if __name__ == "__main__":
     play_slot_machine()
