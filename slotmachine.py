@@ -16,6 +16,9 @@ def play_slot_machine():
         
         if bet == 0:
             break
+            print("You ended the game with {coins} coins.")
+            print("Thank you for playing!")
+            print("the creator's github is at htpps://github.com/paulbadmanthereal")
         elif bet > coins:
             print("Insufficient coins. Please enter a valid bet.")
             continue
